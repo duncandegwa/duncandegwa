@@ -10,3 +10,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves programming and writing
 
+
+## Stats 📈
+
+[![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro-jrr)](https://github.com/alvaro-jrr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-jrr&hide=c)](https://github.com/alvaro-jrr/github-readme-stats)
+
