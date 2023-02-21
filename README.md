@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently a freelancer web developer and a technical writer 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Tailwind CSS,React and Django
